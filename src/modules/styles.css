@@ -1,0 +1,77 @@
+.WeatherLogo{
+    width:  100px;
+    height: 100px;
+    margin: 5px auto;
+}
+.citylabel{
+    color : black;
+    font-size : 18px;
+    font-weight: bold;
+    margin: 10px auto;
+
+
+}
+.search{
+    display : flex;
+    flex-direction: row;
+    border: black solid 1px;
+    border-radius: 5px;
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 20px auto;
+
+}
+input[type=text]{
+    padding : 10px;
+    font-size: 14px;
+    border: none;
+    outline: none;
+    font-weight: bold;
+}
+button{
+    padding : 10px;
+    font-size: 14px;
+    color: white;
+    background-color: purple;
+    border: none;
+    outline: none;
+    font-weight: bold;
+    cursor : pointer;
+}
+
+
+
+.weathercondition{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+    justify-content: space-between;
+    margin: 18px auto;
+    
+
+}
+.condition{
+    
+    margin: 20px auto;
+    font-size: 14px;
+
+}
+.condi{
+    font-size:28px;
+    font-weight: bold;
+}
+.location{
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.wealabel{
+    font-size: 14px;
+    font-weight: bold;
+    margin: 20px 25px 1px;
+    text-align: start;
+    width: 90%;
+
+}

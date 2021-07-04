@@ -36,3 +36,34 @@
     transform: rotate(360deg);
   }
 }
+
+.container {
+  display : flex;
+  flex-direction: column;
+  margin : auto;
+  align-items: center;
+  box-shadow: 0 3px 6px 0 #555;
+  padding : 20px 10px;
+  border-radius: 4px;
+  width : 380px;
+  background-color: white;
+  font-family: 'Courier New', Courier, monospace;
+  
+  
+}
+.city{
+  display : flex;
+  flex-direction : column;
+  
+}
+.weather {
+  display : flex;
+  flex-direction: column;
+  
+}
+.AppLabel{
+  color : black;
+  font-size: 18px;
+  font-weight: bold;
+
+}
