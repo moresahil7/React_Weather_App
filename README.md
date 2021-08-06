@@ -22,4 +22,4 @@ You will get following weather information :
 
 
 
-Leave a Star<a href="https://github.com/moresahil7/React_Weather_App">⭐</a>like it😉.
+Leave a Star<a href="https://github.com/moresahil7/React_Weather_App">⭐</a> if you like😉.
