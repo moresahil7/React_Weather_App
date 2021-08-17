@@ -16,10 +16,10 @@ You will get following weather information :
 <strong>You can enter the City🏙 name and hit Search🔍</strong>
 
 DEMO📷 on Laptop💻
-<div>
+
 ![image](https://user-images.githubusercontent.com/82169025/129677106-827339ff-8c8c-4766-892a-6ae25f83dba0.png)
 ![image](https://user-images.githubusercontent.com/82169025/129677150-5d5bf5f8-0b5c-423a-b23e-179ed51c46dd.png)
-</div>
+
 DEMO📷 on Mobile(Android)📱
 <div>
 ![image](https://user-images.githubusercontent.com/82169025/129677243-b729e5dd-900f-42dd-a07f-fff5cd2dc04d.png)
