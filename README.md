@@ -27,6 +27,8 @@ DEMO📷 on Mobile(Android)📱
 ![image](https://user-images.githubusercontent.com/82169025/129677286-b8fc6ae6-e417-48a5-beed-44a2b8a858de.png)
 
 
+You Can Download PWA from here.
+![Inkedweather_LI](https://user-images.githubusercontent.com/82169025/129678187-23d2e81f-174e-45c4-a34e-5555e7b70a23.jpg)
 
 
 
