@@ -21,11 +21,11 @@ DEMO📷 on Laptop💻
 ![image](https://user-images.githubusercontent.com/82169025/129677150-5d5bf5f8-0b5c-423a-b23e-179ed51c46dd.png)
 
 DEMO📷 on Mobile(Android)📱
-<div>
+
 ![image](https://user-images.githubusercontent.com/82169025/129677243-b729e5dd-900f-42dd-a07f-fff5cd2dc04d.png)
 ![image](https://user-images.githubusercontent.com/82169025/129677274-59680081-4931-4a96-a1d1-23b0676578b0.png)
 ![image](https://user-images.githubusercontent.com/82169025/129677286-b8fc6ae6-e417-48a5-beed-44a2b8a858de.png)
-</div>
+
 
 
 
